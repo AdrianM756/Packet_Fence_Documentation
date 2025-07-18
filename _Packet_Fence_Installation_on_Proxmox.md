@@ -106,12 +106,17 @@ On our Proxmox machine download the ISO file by querying the URL. We can achieve
 Once done, acess it via your web browser using ```https://<IP Address of Packet Fennce>:1443```.
 <br>
 
-**NOTE:** To create a user for the Web GUI, you can use this command:
+**NOTE:** To create a user credential for the Web GUI, you can use this command:
 ```
 htpasswd -c /usr/local/pf/conf/admin.conf <USERNAME>
 ```
 <br>
 
+Once created, try to login using the user that you've created.
+<br>
+<img width="957" height="526" alt="image" src="https://github.com/user-attachments/assets/630c739c-1856-439e-9fe3-1f2763683dbe" />
+<br>
+<br>
 
 
 
