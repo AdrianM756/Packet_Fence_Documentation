@@ -57,8 +57,8 @@ On our Proxmox machine download the ISO file by querying the URL. We can achieve
 <br>
 <br>
 
-*For the ```Network``` tab, keep it as default for our machine to receive the same network address like our proxmox. 
+* For the ```Network``` tab, keep it as default for our machine to receive the same network address like our proxmox. 
 <br>
 
-On the ```Confirm``` tab, review the details and click on ```Finish```.
+* On the ```Confirm``` tab, review the details and click on ```Finish```.
 <br>
