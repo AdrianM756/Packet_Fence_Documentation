@@ -62,3 +62,51 @@ On our Proxmox machine download the ISO file by querying the URL. We can achieve
 
 * On the ```Confirm``` tab, review the details and click on ```Finish```.
 <br>
+
+## Setting up Packet Fence
+
+* Select the Created Virtual Machine and click on ```Start```.
+<br>
+<img width="665" height="339" alt="image" src="https://github.com/user-attachments/assets/78e902b2-f7aa-4fec-8e7e-3edef79be901" />
+<br>
+<br>
+
+* Click on ```Console```. A new browser tab will appear.
+<br>
+<img width="319" height="43" alt="image" src="https://github.com/user-attachments/assets/6d05d6b6-c903-4c8f-ac5f-3d1c5f8c335a" />
+<br>
+<br>
+
+*Select ```Install Debian with PacketFence``` then click ```Enter```.
+<br>
+<img width="637" height="407" alt="image" src="https://github.com/user-attachments/assets/c932c73d-0a41-413b-b2aa-5b2c99c735a2" />
+<br>
+<br>
+
+* Type your desired hostname for the machine and click on ```Continue```.
+<br>
+<img width="1172" height="222" alt="image" src="https://github.com/user-attachments/assets/126c20ab-48fe-4d90-ab51-0bad89f68fb1" />
+<br>
+<br>
+
+* Set up your root credential and re-enter it.
+<br>
+<img width="1214" height="353" alt="image" src="https://github.com/user-attachments/assets/340e23b0-a0bf-42c4-869b-825ccd816531" />
+<br>
+<img width="709" height="214" alt="image" src="https://github.com/user-attachments/assets/549180a6-d1a6-4d3f-999f-26d9c95f6d01" />
+<br>
+<br>
+
+* Wait for the installation to finish.
+<br>
+<img width="1236" height="110" alt="image" src="https://github.com/user-attachments/assets/bf048f42-a350-4b3c-8923-951b86049d97" />
+<br>
+<br>
+
+
+
+
+
+
+
+
